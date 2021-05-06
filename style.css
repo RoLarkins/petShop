@@ -1,7 +1,14 @@
 body{
-    color: green
+    text-align: center;
+    align-content: center;
+    background-color: gainsboro;
+    color: whitesmoke;
+
+    
 }
 
-::backdrop{
-    color: darkturquoise;
+h1{
+    color: white
 }
+
+
