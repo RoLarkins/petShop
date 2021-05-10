@@ -3,7 +3,7 @@ var shop = [
       title: 'Tigers',
       image: './img/gerbile.jpg',
       price: '$7,500-15,000'
-      description 
+      
     },
     
   
